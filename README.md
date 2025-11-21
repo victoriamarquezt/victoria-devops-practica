@@ -15,6 +15,8 @@ La aplicación incluye:
 - Un servicio central `TiendaService` que coordina las operaciones clave.
 - Un archivo `main.py` que actúa como punto de entrada para probar el sistema.
 
+## Actualización 2.2
+
 a) Cómo construir la imagen:
 Para construir la imagen Docker debes situarte en la carpeta raíz del proyecto y ejecutar el comando:
 docker build -t tienda_online:1.0 .
